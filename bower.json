@@ -1,0 +1,30 @@
+{
+  "name": "streambind",
+  "version": "0.0.1",
+  "homepage": "https://github.com/haganbmj/streambind",
+  "authors": [
+    "Brendan Hagan <bhaganksu@gmail.com>"
+  ],
+  "description": "Bind json values and animations to dom elements",
+  "main": "jquery.streambind.js",
+  "keywords": [
+    "animation",
+    "streambind",
+    "stream",
+    "text",
+    "twitch"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": 		">= 2.0.2",
+    "gsap": 		">= 1.18.5",
+	"jquerymy": 	">= 1.2.5"
+  }
+}

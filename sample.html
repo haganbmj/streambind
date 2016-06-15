@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <script src="bower_components/jquery/dist/jquery.min.js"></script>
+        <script src="bower_components/gsap/src/minified/TweenMax.min.js"></script>
+        <script src="bower_components/gsap/src/minified/TimelineLite.min.js"></script>
+        <script src="assets/bind_animations.js"></script>
+        <script src="jquery.streambind.js"></script>
+
+        <style>
+            body, body * {
+				text-align: center;
+				vertical-align: middle;
+				display: flex;
+				align-items: center;
+
+				font-size: 25px;
+			}
+
+            div[streamData='p1_name'] {
+                position: absolute;
+                top: 20px;
+                left: 20px;
+                width: 100px;
+                height: 30px;
+
+            }
+        </style>
+    </head>
+    <body>
+        <div streamData="stream.viewers"></div>
+        <div streamData="p1_name" class="fade"></div>
+        <div class="fade">no data</div>
+    </body>
+</html>

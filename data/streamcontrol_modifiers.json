@@ -1,0 +1,31 @@
+{
+	"p1_char" : "<img class='character_icon' src='resources/characters/stock_icons/neutral/neutral {{replace}}.png'/>",
+	"p2_char" : "<img class='character_icon' src='resources/characters/stock_icons/neutral/neutral {{replace}}.png'/>",
+	
+	"c1_p1_char" : "<img class='character_icon' src='resources/characters/stock_icons/neutral/neutral {{replace}}.png'/>",
+	"c1_p2_char" : "<img class='character_icon' src='resources/characters/stock_icons/neutral/neutral {{replace}}.png'/>",
+	"c1_p3_char" : "<img class='character_icon' src='resources/characters/stock_icons/neutral/neutral {{replace}}.png'/>",
+	"c1_p4_char" : "<img class='character_icon' src='resources/characters/stock_icons/neutral/neutral {{replace}}.png'/>",
+	"c1_p5_char" : "<img class='character_icon' src='resources/characters/stock_icons/neutral/neutral {{replace}}.png'/>",
+	"c1_p6_char" : "<img class='character_icon' src='resources/characters/stock_icons/neutral/neutral {{replace}}.png'/>",
+	"c1_p7_char" : "<img class='character_icon' src='resources/characters/stock_icons/neutral/neutral {{replace}}.png'/>",
+	"c1_p8_char" : "<img class='character_icon' src='resources/characters/stock_icons/neutral/neutral {{replace}}.png'/>",
+	"c1_p9_char" : "<img class='character_icon' src='resources/characters/stock_icons/neutral/neutral {{replace}}.png'/>",
+	"c1_p10_char" : "<img class='character_icon' src='resources/characters/stock_icons/neutral/neutral {{replace}}.png'/>",
+	
+	"c2_p1_char" : "<img class='character_icon' src='resources/characters/stock_icons/neutral/neutral {{replace}}.png'/>",
+	"c2_p2_char" : "<img class='character_icon' src='resources/characters/stock_icons/neutral/neutral {{replace}}.png'/>",
+	"c2_p3_char" : "<img class='character_icon' src='resources/characters/stock_icons/neutral/neutral {{replace}}.png'/>",
+	"c2_p4_char" : "<img class='character_icon' src='resources/characters/stock_icons/neutral/neutral {{replace}}.png'/>",
+	"c2_p5_char" : "<img class='character_icon' src='resources/characters/stock_icons/neutral/neutral {{replace}}.png'/>",
+	"c2_p6_char" : "<img class='character_icon' src='resources/characters/stock_icons/neutral/neutral {{replace}}.png'/>",
+	"c2_p7_char" : "<img class='character_icon' src='resources/characters/stock_icons/neutral/neutral {{replace}}.png'/>",
+	"c2_p8_char" : "<img class='character_icon' src='resources/characters/stock_icons/neutral/neutral {{replace}}.png'/>",
+	"c2_p9_char" : "<img class='character_icon' src='resources/characters/stock_icons/neutral/neutral {{replace}}.png'/>",
+	"c2_p10_char" : "<img class='character_icon' src='resources/characters/stock_icons/neutral/neutral {{replace}}.png'/>",
+	
+	"b_p1_name" : "<port>P1:</port> {{replace}}",
+	"b_p2_name" : "<port>P1:</port> {{replace}}",
+	"b_p3_name" : "<port>P1:</port> {{replace}}",
+	"b_p4_name" : "<port>P1:</port> {{replace}}"
+}
